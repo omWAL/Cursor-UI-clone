@@ -29,7 +29,7 @@ To run this project locally, simply clone the repository and open the index.html
 Clone the repository
 
 Bash
-git clone https://github.com/your-username/cursor-clone.git
+git clone https://github.com/omWAL/Cursor-UI-clone.git
 Navigate to the project folder
 
 Bash
