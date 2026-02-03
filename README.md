@@ -1,5 +1,3 @@
-A great README makes your project look professional and helps others (and future you) understand how to use it. Here is a tailored README.md for your Cursor Clone project.
-
 Cursor Landing Page Clone 🚀
 A high-fidelity landing page clone of Cursor, the AI code editor. This project focuses on modern web aesthetics, utilizing Tailwind CSS for a sleek dark mode UI and JavaScript for interactive components like draggable windows.
 
